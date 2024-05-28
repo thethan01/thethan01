@@ -9,11 +9,11 @@
 
 🧰 Languages and Tools
 </p>
-<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/dart.svg" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/flutter.svg" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/kotlin.svg" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/android-os.svg" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/vscode.svg" alt="vscode"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/android-studio.svg" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/intellij-idea.svg" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/figma.svg" alt="cpp"></code>
+<code><img height="30" src="dart.svg" alt="cpp"></code>
+<code><img height="30" src="flutter.svg" alt="cpp"></code>
+<code><img height="30" src="kotlin.svg" alt="cpp"></code>
+<code><img height="30" src="android-os.svg" alt="cpp"></code>
+<code><img height="30" src="vscode.svg" alt="vscode"></code>
+<code><img height="30" src="android-studio.svg" alt="cpp"></code>
+<code><img height="30" src="intellij-idea.svg" alt="cpp"></code>
+<code><img height="30" src="figma.svg" alt="cpp"></code>
