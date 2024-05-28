@@ -17,8 +17,8 @@
 <code><img height="30" src="android-studio.svg" alt="cpp"></code>
 <code><img height="30" src="intellij-idea.svg" alt="cpp"></code>
 <code><img height="30" src="figma.svg" alt="cpp"></code>
-<p>
+
   <br>
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thethan01&layout=compact&theme=github_dark&hide_border=true"/>
+<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thethan01&layout=compact&theme=github_dark&hide_border=true"/>
   </br>
-</p>
+
