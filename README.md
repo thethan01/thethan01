@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Thethan01👋
 
-<!--
-**thethan01/thethan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"ABOUNT ME</h2>
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thethan01&layout=compact&theme=github_dark&hide_border=true"/>
+<p>
+🙋‍♂️ My name is Hoang Manh Sy. I come from Viet Nam.
 
-Here are some ideas to get you started:
+🎂 02/11/2001
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I'm mobile developer
+
+🧰 Languages and Tools
+
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/dart.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/flutter.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/kotlin.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/nodejs.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/python.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/android-os.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/mysql.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/vscode.svg" alt="vscode"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/android-studio.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/intellij-idea.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/thethan01/thethan01/main/figma.svg" alt="cpp"></code>
+
