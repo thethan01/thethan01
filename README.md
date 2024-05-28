@@ -9,14 +9,14 @@
 
 🧰 Languages and Tools
 </p>
-<code><img height="30" src="dart.svg" alt="cpp"></code>
-<code><img height="30" src="flutter.svg" alt="cpp"></code>
-<code><img height="30" src="kotlin.svg" alt="cpp"></code>
-<code><img height="30" src="android-os.svg" alt="cpp"></code>
-<code><img height="30" src="vscode.svg" alt="vscode"></code>
-<code><img height="30" src="android-studio.svg" alt="cpp"></code>
-<code><img height="30" src="intellij-idea.svg" alt="cpp"></code>
-<code><img height="30" src="figma.svg" alt="cpp"></code>
+<code><img height="30" src="/assets/dart.svg" alt="cpp"></code>
+<code><img height="30" src="/assets/flutter.svg" alt="cpp"></code>
+<code><img height="30" src="/assets/kotlin.svg" alt="cpp"></code>
+<code><img height="30" src="/assets/android-os.svg" alt="cpp"></code>
+<code><img height="30" src="/assets/vscode.svg" alt="vscode"></code>
+<code><img height="30" src="/assets/android-studio.svg" alt="cpp"></code>
+<code><img height="30" src="/assets/intellij-idea.svg" alt="cpp"></code>
+<code><img height="30" src="/assets/figma.svg" alt="cpp"></code>
 
   <br><br>
 <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thethan01&layout=compact&theme=github_dark&hide_border=true"/>
