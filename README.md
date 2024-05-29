@@ -10,8 +10,6 @@
 <p>
 🙋‍♂️ My name is Hoang Manh Sy. I come from Viet Nam.
 
-🎂 02/11/2001
-
 👨‍💻 I'm mobile developer
 
 🧰 Languages and Tools
